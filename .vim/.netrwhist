@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zhaoyou/codes/web'
+let g:netrw_dirhist_2='/home/zhaoyou'
+let g:netrw_dirhist_3='/home/zhaoyou/codes/web'
+let g:netrw_dirhist_4='/home/zhaoyou'
+let g:netrw_dirhist_5='/home/zhaoyou/codes/web'
+let g:netrw_dirhist_6='/home/zhaoyou'
+let g:netrw_dirhist_7='/home/zhaoyou/codes/web'
+let g:netrw_dirhist_8='/home/zhaoyou/work/akka-test'
+let g:netrw_dirhist_9='/home/zhaoyou/codes/web'
