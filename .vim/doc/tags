@@ -23,6 +23,8 @@
 'Tlist_Use_SingleClick'	taglist.txt	/*'Tlist_Use_SingleClick'*
 'Tlist_WinHeight'	taglist.txt	/*'Tlist_WinHeight'*
 'Tlist_WinWidth'	taglist.txt	/*'Tlist_WinWidth'*
+:Ack	ack.txt	/*:Ack*
+:AckAdd	ack.txt	/*:AckAdd*
 :I	visincr.txt	/*:I*
 :IA	visincr.txt	/*:IA*
 :IB	visincr.txt	/*:IB*
@@ -37,6 +39,8 @@
 :IPOW	visincr.txt	/*:IPOW*
 :IR	visincr.txt	/*:IR*
 :IX	visincr.txt	/*:IX*
+:LAck	ack.txt	/*:LAck*
+:LAckAdd	ack.txt	/*:LAckAdd*
 :RI	visincr.txt	/*:RI*
 :RID	visincr.txt	/*:RID*
 :RIDMY	visincr.txt	/*:RIDMY*
@@ -65,6 +69,9 @@ Tlist_Get_Tag_Prototype_By_Line()	taglist.txt	/*Tlist_Get_Tag_Prototype_By_Line(
 Tlist_Get_Tagname_By_Line()	taglist.txt	/*Tlist_Get_Tagname_By_Line()*
 Tlist_Set_App()	taglist.txt	/*Tlist_Set_App()*
 Tlist_Update_File_Tags()	taglist.txt	/*Tlist_Update_File_Tags()*
+ack	ack.txt	/*ack*
+ack-author	ack.txt	/*ack-author*
+ack.txt	ack.txt	/*ack.txt*
 ex-visincr-I	visincr.txt	/*ex-visincr-I*
 ex-visincr-IA	visincr.txt	/*ex-visincr-IA*
 ex-visincr-ID	visincr.txt	/*ex-visincr-ID*
