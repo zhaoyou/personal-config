@@ -1,5 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/zhaoyou/code/web'
-let g:netrw_dirhist_2='/home/zhaoyou/code/web/thirdparty/js'
-let g:netrw_dirhist_3='/home/zhaoyou/code/web'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zhaoyou/code/imd/web'
+let g:netrw_dirhist_2='/home/zhaoyou/code/mw/main'
+let g:netrw_dirhist_3='/home/zhaoyou/work/research/gcc/first'
+let g:netrw_dirhist_4='/home/zhaoyou/code/mw/main'
+let g:netrw_dirhist_5='/home/zhaoyou/work/research'
+let g:netrw_dirhist_6='/home/zhaoyou/work/research/gcc/first'
+let g:netrw_dirhist_7='/home/zhaoyou/work/research/spoj'
+let g:netrw_dirhist_8='/home/zhaoyou/work/research/spoj/SHPATH'
+let g:netrw_dirhist_9='/home/zhaoyou/Qt5.0.0'
