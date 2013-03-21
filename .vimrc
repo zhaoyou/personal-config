@@ -20,7 +20,7 @@ set showmatch  "Show matching bracets when text indicator is over them
 
 
 
-" Switch on filetype detection and loads 
+" Switch on filetype detection and loads
 " indent file (indent.vim) for specific file types
 filetype indent on
 filetype on
@@ -47,3 +47,4 @@ au BufRead,BufNewFile *.thrift set filetype=thrift
 au! Syntax thrift source ~/.vim/thrift.vim
 set autochdir
 autocmd BufWritePre * :%s/\s\+$//e
+let NERDTreeShowHidden=1
