@@ -1,4 +1,4 @@
-colorscheme darkblue
+colorscheme lucius
 set syntax=on
 set number
 set tabstop=4
