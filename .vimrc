@@ -48,3 +48,6 @@ au! Syntax thrift source ~/.vim/thrift.vim
 set autochdir
 autocmd BufWritePre * :%s/\s\+$//e
 let NERDTreeShowHidden=1
+" for mac
+vmap "+y :w !pbcopy<CR><CR>
+nmap "+p :r !pbpaste<CR><CR>
