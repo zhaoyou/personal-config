@@ -51,3 +51,4 @@ let NERDTreeShowHidden=1
 " for mac
 vmap "+y :w !pbcopy<CR><CR>
 nmap "+p :r !pbpaste<CR><CR>
+set encoding=utf-8
